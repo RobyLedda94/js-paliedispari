@@ -22,3 +22,12 @@ console.log(numeroUtente);
 
 const numeroComputer = Math.floor(Math.random() * 5) + 1;
 console.log(`Numero del computer: ${numeroComputer}`);
+
+
+// determino la somma
+const somma = sceltaUtente + numeroComputer;
+
+
+// function a (c){
+    
+// }
