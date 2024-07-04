@@ -27,6 +27,10 @@ function verificaPalindroma(parola){
         return false;
     }
     
-    
+   
 }
+
+// richiamo la funzione
+
+const isPalindroma = verificaPalindroma(parolaUtente);
 
