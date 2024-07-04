@@ -26,8 +26,6 @@ console.log(`Numero del computer: ${numeroComputer}`);
 
 // determino la somma
 const somma = sceltaUtente + numeroComputer;
+console.log(`Somma: ${somma}`);
 
 
-// function a (c){
-    
-// }

@@ -30,7 +30,6 @@ Dichiariamo chi ha vinto.
 
 1 - input chiedo all'utente di inserire pari o dispari
 2 - input chiedo all'utente di inserire un numero da 1 a 5
-3 - creo una funzione che genera un numero casuale da 1 a 5 per il computer
-4 - calcolo la somma dei numeri
-5 - verifico se la somma e pari o dispari
+3 - calcolo la somma dei numeri
+4 - funzione per determinare se il numero e pari o dispari
 6 - determino il vincitore
