@@ -17,6 +17,12 @@ function verificaPalindroma(parola){
     for (let i = parola.lenght - 1; i >= 0; i --){
         parolaInvertita += parola[i]
     }
+
+    // confronto la parola inserita dall'utente con quella invertita
+
+    if (parolaInvertita.toLowerCase() === parola.toLowerCase()){
+        
+    }
     
 }
 
