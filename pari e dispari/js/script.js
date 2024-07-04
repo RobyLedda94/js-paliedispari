@@ -38,3 +38,15 @@ function evenOdd(numero){
 // variabile che determina se la somma e pari o dispari
 
 const risultatoSomma = evenOdd(somma);
+console.log(risultatoSomma);
+
+
+// dichiaro il vincitore
+
+if (sceltaUtente === risultatoSomma){
+    console.log('Hai vinto');
+
+}else {
+    console.log('Hai perso');
+}
+
