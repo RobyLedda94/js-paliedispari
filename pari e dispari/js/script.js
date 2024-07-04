@@ -10,3 +10,9 @@
 
 const sceltaUtente = prompt("Scegli un numero pari o dispari");
 console.log(sceltaUtente);
+
+
+// chiedo all'utente di inserire un numero da 1 a 5
+
+const numeroUtente = parseInt(prompt('Inserisci un numero da 1 a 5'));
+console.log(numeroUtente);
