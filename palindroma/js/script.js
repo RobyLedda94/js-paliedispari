@@ -8,5 +8,15 @@
 const parolaUtente = prompt("Inserisci una parola");
 // console.log(parolaUtente);
 
+// funzione per verificare se la parola e palindroma
 
+function verificaPalindroma(parola){
+    let parolaInvertita = "";
+
+    // ciclo (for) la parola per controllare ogni carattere 
+    for (let i = parola.lenght - 1; i >= 0; i --){
+        parolaInvertita += parola[i]
+    }
+    
+}
 
