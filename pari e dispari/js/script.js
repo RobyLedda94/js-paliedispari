@@ -9,3 +9,4 @@
 // chiedo all'utente di scegliare o pari o dispari
 
 const sceltaUtente = prompt("Scegli un numero pari o dispari");
+console.log(sceltaUtente);
