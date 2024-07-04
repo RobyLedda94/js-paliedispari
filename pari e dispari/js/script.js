@@ -3,3 +3,9 @@
 // Sommiamo i due numeri
 // Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
 // Dichiariamo chi ha vinto.
+
+
+
+// chiedo all'utente di scegliare o pari o dispari
+
+const sceltaUtente = prompt("Scegli un numero pari o dispari");
