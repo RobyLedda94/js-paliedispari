@@ -28,4 +28,9 @@ console.log(`Numero del computer: ${numeroComputer}`);
 const somma = sceltaUtente + numeroComputer;
 console.log(`Somma: ${somma}`);
 
+// funzione per determinare un numero e pari o dispari
 
+function evenOdd(numero){
+    return numero % 2 === 0;
+
+}
