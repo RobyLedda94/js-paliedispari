@@ -34,3 +34,10 @@ function verificaPalindroma(parola){
 
 const isPalindroma = verificaPalindroma(parolaUtente);
 
+// mostro il risultato in console
+if (isPalindroma){
+    console.log("La parola inserita è palindroma");
+} else{
+    console.log("La parola inserita non è palindroma");
+}
+
