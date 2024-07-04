@@ -16,3 +16,9 @@ console.log(sceltaUtente);
 
 const numeroUtente = parseInt(prompt('Inserisci un numero da 1 a 5'));
 console.log(numeroUtente);
+
+
+// genero un numero casuale da 1 a 5 per il computer
+
+const numeroComputer = Math.floor(Math.random() * 5) + 1;
+console.log(`Numero del computer: ${numeroComputer}`);
