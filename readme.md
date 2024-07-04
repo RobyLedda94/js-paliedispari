@@ -32,4 +32,4 @@ Dichiariamo chi ha vinto.
 2 - input chiedo all'utente di inserire un numero da 1 a 5
 3 - calcolo la somma dei numeri
 4 - funzione per determinare se il numero e pari o dispari
-6 - determino il vincitore
+5 - variabile che determina se la somma e pari o dispari

@@ -34,3 +34,7 @@ function evenOdd(numero){
     return numero % 2 === 0;
 
 }
+
+// variabile che determina se la somma e pari o dispari
+
+const risultatoSomma = evenOdd(somma);
